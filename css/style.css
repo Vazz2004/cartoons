@@ -1,0 +1,58 @@
+/* Aca incorpora las reglas del boxmodel */
+
+*{
+    box-sizing: border-box;
+    padding:0 ;
+    margin: 0;
+   
+}
+
+.caja1{
+    width: 600px;
+    height: 600px;
+    color: pink;
+    background-color:darkorchid;
+    border: 2px violet solid;
+    padding: 10px 30px 10px 30px ;
+    margin: 10px ;
+    background-image: url(/images/pan.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+    
+
+   
+}
+
+h3{
+    font-family: 'Rock Salt', cursive;
+    font-size: 70px;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+}
+
+
+.caja2{
+    width: 600px;
+    height: 600px;
+    color: red;
+    background-color:yellow;
+    border: 2px  black solid;
+    padding: 10px 30px 10px 30px ;
+    margin: 10px ;
+    background-image: url(/images/simpsons_PNG22.png.crdownload);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+}
+
+
+
+h4{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 80px;
+}
+
